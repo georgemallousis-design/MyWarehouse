@@ -1,0 +1,1 @@
+# GUI package initialization for warehouse_manager
