@@ -8,7 +8,6 @@ falls back to the csv module for CSV only.
 from __future__ import annotations
 
 import csv
-from typing import Optional, List
 import logging
 from pathlib import Path
 
